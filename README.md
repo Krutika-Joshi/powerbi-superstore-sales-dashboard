@@ -7,6 +7,17 @@ This project is an end-to-end **Power BI Sales Dashboard** developed by implemen
 The dashboard provides interactive insights into sales performance, profit, customer segments, shipping methods, regional performance, and sales forecasting using the Super Store Sales dataset.
 
 ---
+## 📷 Dashboard Preview
+
+### Sales Dashboard
+
+![Sales Dashboard](sales%20dashboard.png)
+
+### Sales Forecast
+
+![Sales Forecast](sales%20dashboard2.png)
+
+---
 
 ## 🎯 Objectives
 
